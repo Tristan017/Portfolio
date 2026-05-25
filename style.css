@@ -1,0 +1,52 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f9fa;
+    color: #222;
+  }
+  
+  .hero {
+    background-color: #e9ecef;
+    padding: 90px 20px;
+  }
+  
+  .hero h1 {
+    font-size: 42px;
+    font-weight: bold;
+  }
+  
+  .hero p {
+    font-size: 20px;
+    margin-bottom: 25px;
+  }
+  
+  h2 {
+    font-weight: bold;
+    margin-bottom: 20px;
+  }
+  
+  section {
+    padding-top: 20px;
+    padding-bottom: 20px;
+  }
+  
+  .card {
+    box-shadow: 0 4px 10px rgba(0,0,0,0.12);
+    border: none;
+  }
+  
+  .card-title {
+    font-weight: bold;
+  }
+  
+  .card-img-top {
+    height: 160px;
+    object-fit: cover;
+  }
+  
+  footer {
+    margin-top: 50px;
+  }
+  
+  .nav-link {
+    margin-left: 15px;
+  }
